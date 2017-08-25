@@ -1,0 +1,13 @@
+Package: firstpackage
+Type: Package
+Title: Visualizer for bike counts across Tilikum and Hawthorne bridges
+Version: 0.1.0
+Author: Kyle Hauger <kyle.hauger@oregonmetro.gov>
+Maintainer: Kyle Hauger <kyle.hauger@oregonmetro.gov>
+Description: Visualize bike counts crossing bridges in Portland.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Import:
+  ggplot2
+  
